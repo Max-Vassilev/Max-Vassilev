@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maxim Vassilev</h1>
-<h3 align="center">A passionate frontend developer from Bulgaria</h3>
+<h3 align="center">A passionate developer from Bulgaria</h3>
 
 - 🌱 I’m currently learning **Python Web with Django**
 
-- 📫 How to reach me **maximvassilev01@gmail.com**
+- 📫 You can reach me through my email: **maximvassilev01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
