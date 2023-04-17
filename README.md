@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/106106321/232524913-874d3f58-020b-4d62-bf8e-c206180ef66a.png)
+
 <h1 align="center">Hi 👋, I'm Maxim Vassilev</h1>
 <h3 align="center">A passionate developer from Bulgaria</h3>
 
