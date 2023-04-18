@@ -1,4 +1,4 @@
-<img width="1000" alt="image" src="https://user-images.githubusercontent.com/106106321/232525703-31b825be-05c7-4ad9-b618-db71f5553998.png">
+<img width="" alt="image" src="https://user-images.githubusercontent.com/106106321/232755431-be8cabaa-5aeb-4be8-b393-5950aa44f8d5.png">
 
 
 <h1 align="center">Hi 👋, I'm Maxim Vassilev</h1>
