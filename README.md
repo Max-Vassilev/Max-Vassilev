@@ -8,7 +8,7 @@
 
 - 📫 You can reach me through my email: **maximvassilev01@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Other ways to connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/maxim vassilev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maxim vassilev" height="30" width="40" /></a>
 <a href="https://instagram.com/_vassilev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vassilev" height="30" width="40" /></a>
