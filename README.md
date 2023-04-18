@@ -1,7 +1,7 @@
 <img width="1000" alt="Screenshot 2023-04-17 180045" src="https://user-images.githubusercontent.com/106106321/232755668-3c19cae0-9e40-40a4-b57d-0e05dce2a518.png">
 
 
-<h1 align="center">Hi 👋, I'm Maxim Vassilev</h1>
+<h1 align="center">Hi there, I'm Maxim</h1>
 <h3 align="center">A passionate developer from Bulgaria</h3>
 
 - 🌱 I’m currently learning **Python Web with Django**
