@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, I'm Maxim</h1>
 <h3 align="center">A passionate developer from Bulgaria</h3>
 
-- 🌱 I’m currently learning **Python Web with Django**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 📫 You can reach me through my email: **maximvassilev01@gmail.com**
 
