@@ -1,4 +1,4 @@
-<img width="800" alt="Screenshot 2023-04-17 180045" src="https://user-images.githubusercontent.com/106106321/232755668-3c19cae0-9e40-40a4-b57d-0e05dce2a518.png">
+<img width="900" alt="Screenshot 2023-04-17 180045" src="https://user-images.githubusercontent.com/106106321/232755668-3c19cae0-9e40-40a4-b57d-0e05dce2a518.png">
 
 
 <h1 align="center">Hi there, I'm Maxim</h1>
