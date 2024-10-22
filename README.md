@@ -38,5 +38,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=max-vassilev&show_icons=true&locale=en&layout=compact" alt="max-vassilev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=max-vassilev&show_icons=true&locale=en" alt="max-vassilev" /></p>
