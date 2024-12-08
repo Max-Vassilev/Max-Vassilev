@@ -1,6 +1,3 @@
-<img width="900" alt="Screenshot 2023-04-17 180045" src="https://user-images.githubusercontent.com/106106321/232755668-3c19cae0-9e40-40a4-b57d-0e05dce2a518.png">
-
-
 <h1 align="center">Hi there, I'm Maxim</h1>
 <h3 align="center">A passionate developer from Bulgaria</h3>
 
@@ -34,8 +31,13 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
     </a>
+    <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+    </a>
+    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> 
+    </a>
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=max-vassilev&show_icons=true&locale=en&layout=compact" alt="max-vassilev" /></p>
 
