@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Maxim</h1>
 <h3 align="center">A passionate developer from Bulgaria</h3>
 
-- 💋 You can reach me through my email: **maximvassilev01@gmail.com**
+- 📫 You can reach me through my email: **maximvassilev01@gmail.com**
 
 </p>
 
