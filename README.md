@@ -69,10 +69,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=max-vassilev&theme=tokyonight" alt="max-vassilev" />
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=max-vassilev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="max-vassilev" />
-</p>
-
 ---
 
 <h3 align="left">📣 Connect with me:</h3>
