@@ -3,10 +3,10 @@
 
 ---
 
-- 🔭 I’m currently working on **backend and cloud technologies**  
-- 💬 Ask me about **Python, React, GraphQL, gRPC, and Microservices**  
-- 📫 Reach me at **maximvassilev01@gmail.com**  
-- ⚡ Fun fact: **I love watching Netflix and reading self-improvement books**  
+- 🔭 I’m currently working on **backend and cloud technologies.**  
+- 💬 Ask me about **Python, React, GraphQL, gRPC and Microservices.**  
+- 📫 Reach me at **maximvassilev01@gmail.com.**  
+- ⚡ Fun fact: **I love watching Netflix and reading self-improvement books.**  
 
 ---
 
