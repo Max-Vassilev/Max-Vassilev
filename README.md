@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Maxim 👋</h1>
-<h3 align="center">A passionate Full-Stack Developer from Bulgaria</h3>
+<h3 align="center">A passionate Full-Stack Developer from Sofia, Bulgaria</h3>
 
 ---
 
