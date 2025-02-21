@@ -76,7 +76,7 @@
 
 <h3 align="left">📣 Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/maxim-vassilev/" target="_blank">
+    <a href="https://www.linkedin.com/in/maxim-vassilev-8b9a1721a/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
