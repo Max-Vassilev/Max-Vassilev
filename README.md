@@ -64,13 +64,6 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=max-vassilev&theme=tokyonight" alt="max-vassilev" />
-</p>
-
----
-
 <h3 align="left">📣 Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/maxim-vassilev-8b9a1721a/" target="_blank">
