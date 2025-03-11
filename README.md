@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on **backend and cloud technologies.**  
-- 💬 Ask me about **Python, React, GraphQL, gRPC, Microservices, and Kubernetes.**  
+- 💬 Ask me about **Python, React, GraphQL, gRPC, and Microservices.**  
 - 📫 Reach me at **maximvassilev01@gmail.com.**  
 - ⚡ Fun fact: **I love watching Netflix and reading self-improvement books.**  
 
@@ -45,11 +45,14 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
     </a>
-    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> 
-    </a>
     <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+    </a>
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
+    </a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
     </a>
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> 
