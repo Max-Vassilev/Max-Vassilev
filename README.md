@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Maxim 👋</h1>
-<h3 align="center">A passionate Full-Stack Developer from Sofia, Bulgaria</h3>
+<h3 align="center">A passionate DevOps Engineer from Sofia, Bulgaria</h3>
 
 ---
 
-- 🔭 I’m currently working on **backend and cloud technologies.**  
-- 💬 Ask me about **Python, React, GraphQL, gRPC, and Microservices.**  
+- 🔭 I’m currently working on **Kubernetes and Cloud technologies.**  
+- 💬 Ask me about **Django, React, GraphQL, gRPC, and Microservices.**  
 - 📫 Reach me at **maximvassilev01@gmail.com.**  
 - ⚡ Fun fact: **I love watching Netflix and reading self-improvement books.**  
 
