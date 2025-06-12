@@ -45,8 +45,8 @@
     <a href="https://helm.sh/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/> 
     </a>
-    <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/argo-icon/color/argo-icon-color.svg" alt="argo cd" width="40" height="40"/> 
+    <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer">
+        <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="argo cd" width="40" height="40"/>
     </a>
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> 
