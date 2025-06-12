@@ -51,8 +51,8 @@
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> 
     </a>
-    <a href="https://en.wikipedia.org/wiki/Continuous_integration" target="_blank" rel="noreferrer"> 
-        <img src="https://user-images.githubusercontent.com/25181517/121397550-baccff00-c95c-11eb-8893-fc325bde617f.png" alt="ci/cd" width="40" height="40"/> 
+    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> 
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
