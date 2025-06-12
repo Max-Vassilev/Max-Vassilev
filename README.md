@@ -43,7 +43,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
     </a>
     <a href="https://helm.sh/" target="_blank" rel="noreferrer"> 
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTblGVkCxWzwbYMpfmwt2HibC8AD7lr89Pd2A&s" alt="helm" width="40" height="40"/>
+        <img src="https://miro.medium.com/v2/resize:fit:303/1*nViWw5hFgS7l3vu1RkO3YA.png" alt="helm" width="40" height="40"/>
     </a>
     <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer">
         <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="argo cd" width="40" height="40"/>
