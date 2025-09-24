@@ -48,14 +48,14 @@
     <a href="https://helm.sh/" target="_blank" rel="noreferrer"> 
         <img src="https://miro.medium.com/v2/resize:fit:303/1*nViWw5hFgS7l3vu1RkO3YA.png" alt="helm" width="40" height="40"/>
     </a>
-    <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer">
-        <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="argo cd" width="40" height="40"/>
-    </a>
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> 
     </a>
     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> 
+    </a>
+    <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer">
+        <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="argo cd" width="40" height="40"/>
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
