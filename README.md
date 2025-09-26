@@ -3,41 +3,32 @@
 
 ---
 
-- 🔭 I’m currently working on **Kubernetes and Cloud technologies.**  
-- 💬 Ask me about **Django, React, GraphQL, gRPC, and Microservices.**  
-- 📫 Reach me at **maximvassilev01@gmail.com.**  
-- ⚡ Fun fact: **I love watching Netflix and reading self-improvement books.**  
+- 🔭 I’m currently working on **Kubernetes and Cloud technologies**  
+- 💬 Ask me about **Django, React, GraphQL, gRPC, and Microservices**  
+- 📫 Reach me at **maximvassilev01@gmail.com**  
+- ⚡ Fun fact: **I love watching Netflix and reading self-improvement books**  
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠 Languages and Tools
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
+    </a>
     <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-    </a> 
+    </a>
     <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
     </a> 
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-    </a>
-    <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" alt="dynamodb" width="40" height="40"/> 
-    </a>
-    <a href="https://www.aws.amazon.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
-    </a>
-    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> 
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
@@ -45,28 +36,63 @@
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
     </a>
-    <a href="https://helm.sh/" target="_blank" rel="noreferrer"> 
-        <img src="https://miro.medium.com/v2/resize:fit:303/1*nViWw5hFgS7l3vu1RkO3YA.png" alt="helm" width="40" height="40"/>
-    </a>
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> 
     </a>
     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> 
     </a>
-    <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer">
-        <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="argo cd" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a>
-    <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> 
-    </a>
     <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> 
     </a>
 </p>
+
+---
+
+### 📊 GitHub Stats
+![Maxim's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+### 🎯 Currently Learning
+- Advanced **Kubernetes Operators & Helm Charts**  
+- **Terraform modules** and cloud infrastructure patterns  
+- Observability with **Prometheus & Grafana**  
+
+---
+
+### 🌱 What I’m Reading
+- *Atomic Habits* by James Clear  
+- *The Pragmatic Programmer* by Andrew Hunt & David Thomas  
+- Articles on **Cloud-Native Architecture**  
+
+---
+
+### 🏆 Achievements
+- AWS Certified Solutions Architect – Associate  
+- Contributed to **open-source DevOps projects**  
+- Built CI/CD pipelines using Jenkins, Argo CD & GitHub Actions  
+
+---
+
+### ⚡ Fun Facts
+- I love **Netflix and self-improvement books**  
+- I often experiment with **new programming languages and tools**  
+- Coffee is my fuel for coding marathons  
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/maximvassilev/)  
+- [Email](mailto:maximvassilev01@gmail.com)  
+- [Twitter](https://twitter.com/) (optional)  
+
+---
+
+### 💡 Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| DevOps Dashboard | Monitors Kubernetes clusters and CI/CD pipelines | Python, Kubernetes, Grafana |
+| GraphQL API Orchestrator | Central API gateway for microservices | Python, GraphQL, gRPC |
+| Movie Search App | React app with movie search and analytics | React, JavaScript, PostgreSQL |
