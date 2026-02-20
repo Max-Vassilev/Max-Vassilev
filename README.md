@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://maxim-vassilev-portfolio.s3.eu-central-1.amazonaws.com/index.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/VISIT_MY_WEBSITE-000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="75"/>
+    <img src="https://img.shields.io/badge/🚀VISIT_MY_WEBSITE-000000?style=for-the-badge&logoColor=white" height="85"/>
   </a>
 </p>
 
