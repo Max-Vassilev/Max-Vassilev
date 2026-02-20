@@ -8,15 +8,24 @@
 - 📫 Reach me at **maximvassilev01@gmail.com.**  
 - ⚡ Fun fact: **I love watching Netflix and reading self-improvement books.**  
 
-<br>
+<br><br>
 
 <p align="center">
-  <a href="https://maxim-vassilev-portfolio.s3.eu-central-1.amazonaws.com/index.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🚀_VISIT_MY_WEBSITE-000000?style=for-the-badge&logoWidth=40&labelColor=000000" height="110"/>
+  <a href="https://maxim-vassilev-portfolio.s3.eu-central-1.amazonaws.com/index.html"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="text-decoration:none;">
+     
+<h1 align="center">
+
+🚀 **VISIT MY WEBSITE**
+
+</h1>
+
   </a>
 </p>
 
-<br>
+<br><br>
 
 ---
 
