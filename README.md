@@ -18,14 +18,10 @@
 
 ---
 
-<h3 align="center">Programming Languages</h3>
+<h3 align="center">Languages & Frameworks</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-</p>
-
-<h3 align="center">Frameworks</h3>
-<p align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
 </p>
@@ -64,5 +60,5 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40"/>
 </p>
