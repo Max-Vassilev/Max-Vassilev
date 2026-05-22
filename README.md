@@ -3,10 +3,10 @@
 
 ---
 
-- 🔭 I work with **Kubernetes and Cloud technologies.**  
-- 💬 Ask me about **Django, React, GraphQL, gRPC, and Microservices.**  
-- 📫 Reach me at **maximvassilev01@gmail.com.**  
-- ⚡ Fun fact: **I love watching Netflix and reading self-improvement books.**  
+- 🔭 I work with **Kubernetes and Cloud technologies**.
+- 💬 Ask me about **Django, React, GraphQL, gRPC, and Microservices**. 
+- 📫 Reach me at **maxim.e.vassilev@gmail.com**.  
+- ⚡ Fun fact: **I love watching Netflix and reading self-improvement books**.
 
 <br>
 
