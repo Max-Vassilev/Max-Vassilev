@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Maxim 👋</h1>
-<h3 align="center">A DevOps Engineer from Sofia, Bulgaria</h3>
+<h3 align="center">A passionate DevOps Engineer from Sofia, Bulgaria</h3>
 
 ---
 
